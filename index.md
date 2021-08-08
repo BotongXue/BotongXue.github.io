@@ -8,4 +8,13 @@ title: "ABOUT ME"
 
 
 
-Botong Xue is a PhD candidate of Business Information System in the College of Business at Mississippi State University. He received his master’s degree in MS & ISA from The University of New Mexico. He has published research papers in different peer-reviewed journals, such as The DATA BASE for Advances in Information Systems, Journal of Database Management, Journal of Intellectual Capital and Organizational Cybersecurity Journal: Practice, Process and People, and several conference papers. His research areas include individual information security behavior, cross-cultural information system study, organizational culture, and organizational leaderships in IS.
+Botong Xue is a PhD candidate of [Business Information System](https://www.business.msstate.edu/academics/department-management-information-systems) in the College of Business at [Mississippi State University](https://www.msstate.edu/). He received his master’s degree in MS & ISA from [The University of New Mexico](https://www.unm.edu/). 
+
+He has published research papers in different peer-reviewed journals, such as:
+- The DATA BASE for Advances in Information Systems;
+- Journal of Database Management;
+- Journal of Intellectual Capital;
+- Organizational Cybersecurity Journal: Practice, Process and People;
+- and several conference papers. 
+
+His research areas include individual information security behavior, cross-cultural information system study, organizational culture, and organizational leaderships in IS.
