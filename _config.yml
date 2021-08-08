@@ -1,6 +1,5 @@
-title: "Botong Xue"
+title: "ABOUT BOTONG XUE"
 author: "Botong Xue"
-description: "PhD Candidate of Mississippi State University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,9 +15,9 @@ minimal: false             # use a gray header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Home}
-  - {title: Publications}
-  - {title: Teaching Experience}
+  - {title: HOME}
+  - {title: PUBLICATIONS}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xuebotong@gmail.com"}
