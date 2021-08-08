@@ -3,7 +3,7 @@ layout: page
 title: "ABOUT ME"
 ---
 
-![IMG_1738](https://user-images.githubusercontent.com/88603362/128649312-d731bb9e-e57a-4af6-ab6c-ba50efdb49e2.JPG)
+              ![IMG_1738](https://user-images.githubusercontent.com/88603362/128649312-d731bb9e-e57a-4af6-ab6c-ba50efdb49e2.JPG)
 
 
 
