@@ -14,6 +14,13 @@ Luo, X.R., Xu, F., Zhang, J., Xiao, S. & Xue, B. (2020). Effects of Organization
 
 [Xu, F., Wang, X., & Xue, B. (2019). The Differential Effects of Interpersonal Justice and Injustice on Computer Abuse. Journal of Database Management 30(3), 1-17.](https://www.igi-global.com/gateway/article/full-text-pdf/234275&riu=true)
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Manuscripts Under Review
+
+Xue, B., Warkentin, M., Balozian, P. & Mutchler, L. Self-efficacy in Information Security: A Replication Study on End Users’ Information Security Practice Behavior. Journal of Computer Information Systems.
+
+## 
+
+[Xu, F., Xue, B., & Warkentin, M. (2020). How do Leader Emotional Displays Influence Employees’ Information Security Effort? Proceedings of the 26th Americas Conference on Information Systems (AMCIS), Virtual.] (https://core.ac.uk/download/pdf/326836554.pdf)
+
+Luo, X.R., Xu, F., Xiao, S., Xue, B., & Zhang, J. (2019). Mindfulness Matters: An Exploratory Study of its Effects on Behavioral Automaticity and Affect in Cyberloafing.” Proceedings of 23rd Pacific Asia Conference on Information Systems (PACIS), Xi’an, China.
