@@ -4,7 +4,8 @@ title: "ABOUT ME"
 ---
 
 
-![IMG_1738](https://user-images.githubusercontent.com/88603362/128640599-3591d32a-677b-46ad-89f1-2d065c78b658.JPG)
+![IMG_1738 2](https://user-images.githubusercontent.com/88603362/128649217-5eb49940-7e2a-453c-a53e-5d6872d92ec0.JPG)
+
 
 
 
