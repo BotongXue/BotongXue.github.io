@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Home"
+layout: page
+title: "ABOUT ME"
 ---
 
 
@@ -9,4 +9,4 @@ title: "Home"
 
 
 
-         information about me
+I'm currently a PhD student in the [Information System](https://www.msstate.edu/) in Mississippi State University
