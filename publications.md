@@ -3,5 +3,4 @@ layout: default
 title: "PUBLICATIONS"
 ---
 
-12345
-123
+Too good to be true? understanding how blockchain revolutionizes loyalty programs
