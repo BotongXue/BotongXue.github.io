@@ -2,30 +2,11 @@
 title: "PULICATIONS"
 permalink: "/PULICATIONS/"
 layout: pages
+
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "PULICATIONS", file: "publications.md"}
   - {title: "TEACHING EXPERIENCE", file: }
 ---
-
-title: "BOTONG XUE"
-description: "Botong can be reached at"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
-
-# Layout
-
-show_excerpts: false       # show article excerpts on the home page
-show_frame: yes            # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a gray header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "PULICATIONS", file: "publications.md"}
-  - {title: "TEACHING EXPERIENCE", file: }
 
 ## Peer-reviewed Research Journal Papers
 
