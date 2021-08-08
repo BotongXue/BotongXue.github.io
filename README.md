@@ -1,7 +1,7 @@
 ---
 title: "PULICATIONS"
 permalink: "/PULICATIONS/"
-layout: page
+layout: publications
 ---
 
 ## Installation
