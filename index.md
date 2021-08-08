@@ -9,4 +9,4 @@ title: "ABOUT ME"
 
 
 
-I'm currently a PhD student in the [Information System](https://www.msstate.edu/) in Mississippi State University
+I'm currently a PhD student in the [Information System](https://www.business.msstate.edu/academics/department-management-information-systems/business-information-systems) in Mississippi State University
