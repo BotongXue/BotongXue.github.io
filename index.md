@@ -19,4 +19,4 @@ He has published research papers in different peer-reviewed journals, such as:
 
 His research areas include individual information security behavior, cross-cultural information system study, organizational culture, and organizational leaderships in IS.
 
-You can view Botong's [publications](https://botongxue.github.io/PULICATIONS/), and contact him through [emails](xuebotong@gmail.com) or [linkedin](www.linkedin.com/in/botong-xue-517071126).
+You can view Botong's [publications](https://botongxue.github.io/PULICATIONS/), and contact him through [Emails](mailto:xuebotong@gmail.com) or [Linkedin](http://linkedin.com/in/botong-xue-517071126).
