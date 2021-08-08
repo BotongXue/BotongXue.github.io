@@ -2,6 +2,9 @@
 title: "PULICATIONS"
 permalink: "/PULICATIONS/"
 layout: pages
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "PULICATIONS", file: "publications.md"}
+  - {title: "TEACHING EXPERIENCE", file: }
 ---
 
 title: "BOTONG XUE"
