@@ -15,7 +15,7 @@ minimal: false             # use a gray header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "PULICATIONS", url: "https://scholar.google.com/citations?hl=en&user=5Vt-QW8AAAAJ"}
+  - {title: "PULICATIONS", file: "publications.md"}
   - {title: "TEACHING EXPERIENCE", file: }
 
 
