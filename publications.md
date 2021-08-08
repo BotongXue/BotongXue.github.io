@@ -10,7 +10,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 ## Peer-reviewed Research Journal Papers
 
-- Xue, B., Xu, F., Luo, X.R. & Warkentin, M. (2021). Ethical Leadership and Employee ISP Violation: Exploring Dual-Mediation Paths. _Organizational Cybersecurity Journal: Practice, Process and People_. Forthcoming.
+- [Xue, B., Xu, F., Luo, X.R. & Warkentin, M. (2021). Ethical Leadership and Employee ISP Violation: Exploring Dual-Mediation Paths. _Organizational Cybersecurity Journal: Practice, Process and People_. Forthcoming.](https://www.emerald.com/insight/content/doi/10.1108/OCJ-02-2021-0002/full/html)
 
 - Balozian, P., Leidner, D. & Xue, B. (2021). Mitigating the Threat to Intellectual Capital Security: Insider Threat Mitigation (ITM) _Theory and Test. Journal of Intellectual Capital_. Forthcoming.
 
@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 - [Xu, F., Xue, B., & Warkentin, M. (2020). How do Leader Emotional Displays Influence Employees’ Information Security Effort? _Proceedings of the 26th Americas Conference on Information Systems (AMCIS), Virtual._](https://core.ac.uk/download/pdf/326836554.pdf)
 
-- Luo, X.R., Xu, F., Xiao, S., Xue, B., & Zhang, J. (2019). Mindfulness Matters: An Exploratory Study of its Effects on Behavioral Automaticity and Affect in Cyberloafing.” _Proceedings of 23rd Pacific Asia Conference on Information Systems (PACIS), Xi’an, China_.
+- [Luo, X.R., Xu, F., Xiao, S., Xue, B., & Zhang, J. (2019). Mindfulness Matters: An Exploratory Study of its Effects on Behavioral Automaticity and Affect in Cyberloafing.” _Proceedings of 23rd Pacific Asia Conference on Information Systems (PACIS), Xi’an, China_.](https://aisel.aisnet.org/pacis2019/61/)
 
 - [Xue, B., Xu, F., & Warkentin, M. (2018). Critical role of ethical leadership on information security climate and employee ISP violation behavior. _Proceedings of the 13th Pre-ICIS Workshop on Information Security and Privacy, San Francisco, CA_.](https://www.albany.edu/wwwres/wisp/papers/WISP2018_paper_23.pdf)
 
