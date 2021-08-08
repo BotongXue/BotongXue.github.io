@@ -9,15 +9,16 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
-show_frame: yes           # adds a gray frame to the site
+show_frame: yes            # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a blue header
+minimal: false             # use a gray header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {title: Home}
+  - {title: Publications}
+  - {title: Teaching Experience}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xuebotong@gmail.com"}
