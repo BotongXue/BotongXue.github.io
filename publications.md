@@ -1,6 +1,6 @@
 ---
-layout: PUBLICATIONS
-title: ""
+layout: default
+title: "PUBLICATIONS"
 ---
 
 .........
